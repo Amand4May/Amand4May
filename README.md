@@ -2,6 +2,12 @@
 
 ## GitHub Stats
 
+<div>
+  <a href="https://github.com/Amand4May"></a> 
+  <img height=180rem src="https://github-readme-stats.vercel.app/api?username=Amand4May&show_icons=true&theme=radical" />
+  <img height=180rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amand4May&layout=compact&theme=radical" />
+</div>
+
 ## Programming Languages
 
 <div style="display: inline_block"><br/>
