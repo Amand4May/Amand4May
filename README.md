@@ -2,12 +2,6 @@
 
 ## GitHub Stats
 
-<div>
-  <a href="https://github.com/Amand4May"></a> 
-  <img height=180rem src="https://github-readme-stats.vercel.app/api?username=Amand4May&show_icons=true&theme=radical" />
-  <img height=180rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amand4May&layout=compact&theme=radical" />
-</div>
-
 ## Programming Languages
 
 <div style="display: inline_block"><br/>
@@ -16,7 +10,7 @@
   <img align="center" height=60 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" height=60 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height=60 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</div> <br/>
+</div><br/>
 
 ## IDE
 
