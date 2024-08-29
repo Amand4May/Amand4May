@@ -15,6 +15,7 @@
   <img align="center" height=60 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height=60 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" height=60 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height=60 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height=60 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div><br/>
 
@@ -27,3 +28,4 @@
 </div><br/>
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/d837a9fe-cfa3-4fb8-938f-408b020570f8" />
+
