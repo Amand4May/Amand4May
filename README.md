@@ -26,4 +26,4 @@
   <img align="center" height=50 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 </div><br/>
 
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/5efc9f00-e102-4b62-927c-ba4916091c85" />
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/d837a9fe-cfa3-4fb8-938f-408b020570f8" />
