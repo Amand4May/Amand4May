@@ -1,5 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/9cca9632-ae43-406f-a823-1b2168fc9a18" /><br/>
 
+## GitHub Stats
+
 <div>
   <a href="https://github.com/Amand4May"></a>
   <img height=180rem src="https://github-readme-stats.vercel.app/api?username=Amand4May&show_icons=true&theme=radical" />
