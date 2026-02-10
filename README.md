@@ -1,7 +1,7 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/9cca9632-ae43-406f-a823-1b2168fc9a18" /><br/>
 
-### About me 
-<div>
+# About me 
+<div style="display: inline_block">
   <p>Sou uma estudante de Engenharia da Computação na FACENS com 21 anos. Tenho uma paixão por tecnologia e desenvolvimento de software, com experiência em JavaScript, HTML, CSS, C, Python e SQL.</p> 
 </div>
 
