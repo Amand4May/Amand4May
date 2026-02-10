@@ -2,7 +2,7 @@
 
 # About me 
 <div style="display: inline_block">
-  <p>Sou uma estudante de Engenharia da Computação na FACENS com 21 anos. Tenho uma paixão por tecnologia e desenvolvimento de software, com experiência em JavaScript, HTML, CSS, C, Python e SQL.</p> 
+  <p>Sou uma estudante de Engenharia da Computação na FACENS com 21 anos. Tenho uma paixão por tecnologia e desenvolvimento de software, com experiência em JavaScript, HTML, CSS, C, Python e SQL. Estou sempre à procura de novos desafios que me permitam aplicar e expandir meus conhecimentos.</p> 
 </div>
 
 ## Programming Languages </>
