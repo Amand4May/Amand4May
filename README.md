@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/9cca9632-ae43-406f-a823-1b2168fc9a18" /><br/>
+<img width=100% bottom=50px src="https://github.com/Amand4May/Amand4May/blob/main/gitNome.png" /><br/>
 
 # About me 
 <div style="display: inline_block">
