@@ -4,7 +4,7 @@
 <div style="display: inline_block">
   <p>Estudante de Engenharia da Computação apaixonada por desenvolvimento de software e construção de soluções escaláveis, com experiência profissional como Desenvolvedora Web na T4E Group, atuando no desenvolvimento de aplicações Full-Stack com React.js, Node.js, Python, Django, PostgreSQL e AWS. Minha trajetória também inclui projetos de Inteligência Artificial e Visão Computacional no MAIA Facens, além do desenvolvimento de firmware embarcado em C/C++ para a equipe V8 Racing (Fórmula SAE).
 Busco criar aplicações bem estruturadas, boas práticas e aprendizado contínuo. Tenho interesse especial por Desenvolvimento Full Stack, Inteligência Artificial e Cloud Computing, sempre buscando novos desafios para ampliar meu conhecimento como engenheira de software.
-.</p> 
+</p> 
 </div>
 
 ## Programming Languages </>
